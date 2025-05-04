@@ -1,4 +1,4 @@
-# HappyHour - Mini WhatsApp Clone
+# HappyHour 
 
 Welcome to **HappyHour**, a simplified version of the popular messaging app WhatsApp. This project demonstrates a full-stack web application built using MongoDB, Express, EJS, CSS, and JavaScript. It is designed to showcase how real-time messaging and a chat application can be built with these technologies.
 
