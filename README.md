@@ -1,4 +1,4 @@
-# My-mini-Whatsapp
+# HappyHour
 WORKING VIDEO : https://www.youtube.com/watch?v=iV9DnONByag
 
 This project is a simplified version of the popular messaging app WhatsApp, built to demonstrate a full-stack web application using the following technologies:
