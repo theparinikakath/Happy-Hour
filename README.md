@@ -53,12 +53,6 @@ To run the project locally, follow these steps:
 
    The application should now be running at `http://localhost:3000`.
 
-## \:iphone: Preview
-
-Here’s a preview of the app:
-
-![HappyHour Preview]([https://via.placeholder.com/800x400.png](https://www.youtube.com/watch?v=iV9DnONByag))
-
 ## \:bulb: How to Contribute ❤️❤️❤️ 
 
 1. Fork the repository. 
