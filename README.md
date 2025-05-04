@@ -12,23 +12,6 @@ Watch the demo of the application in action.
 - **User Authentication**: Users can sign up, log in, and maintain their own chat history.
 - **Responsive Design**: The application is fully responsive, making it accessible on both desktop and mobile devices.
 - **Chat History**: Keep track of your chat history with every user.
-Here's the complete updated version of your `README.md` file with all the changes included:
-
-````markdown
-# HappyHour - Mini WhatsApp Clone
-
-Welcome to **HappyHour**, a simplified version of the popular messaging app WhatsApp. This project demonstrates a full-stack web application built using MongoDB, Express, EJS, CSS, and JavaScript. It is designed to showcase how real-time messaging and a chat application can be built with these technologies.
-
-## :movie_camera: [Working Video](https://www.youtube.com/watch?v=iV9DnONByag)
-
-Watch the demo of the application in action.
-
-## :sparkles: Features
-
-- **Real-time Messaging**: Send and receive messages in real-time with your contacts.
-- **User Authentication**: Users can sign up, log in, and maintain their own chat history.
-- **Responsive Design**: The application is fully responsive, making it accessible on both desktop and mobile devices.
-- **Chat History**: Keep track of your chat history with every user.
 
 ## :wrench: Technologies Used
 
@@ -46,7 +29,6 @@ To run the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/theparinikakath/Happy-Hour.git
-````
 
 2. **Install dependencies:**
 
@@ -75,11 +57,11 @@ To run the project locally, follow these steps:
 
 Here’s a preview of the app:
 
-![HappyHour Preview](https://via.placeholder.com/800x400.png)
+![HappyHour Preview]([https://via.placeholder.com/800x400.png](https://www.youtube.com/watch?v=iV9DnONByag))
 
-## \:bulb: How to Contribute
+## \:bulb: How to Contribute ❤️❤️❤️ 
 
-1. Fork the repository.
+1. Fork the repository. 
 2. Create a new branch (`git checkout -b feature-name`).
 3. Make your changes and commit them (`git commit -am 'Add feature'`).
 4. Push to the branch (`git push origin feature-name`).
