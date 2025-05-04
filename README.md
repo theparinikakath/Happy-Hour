@@ -9,7 +9,7 @@ Watch the [demo](https://www.youtube.com/watch?v=iV9DnONByag) of the application
 ## :sparkles: Features
 
 - **Real-time Messaging**: Send and receive messages in real-time with your contacts.
-- **User Authentication**: Users can sign up, log in, and maintain their own chat history.
+- **User Authentication**: Users can log in to see their chat history.
 - **Responsive Design**: The application is fully responsive, making it accessible on both desktop and mobile devices.
 - **Chat History**: Keep track of your chat history with every user.
 
